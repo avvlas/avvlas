@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Alexander
+
+I'm a senior software engineer.   
+Most of my time is spent on Android and multiplatform development with Kotlin Multiplatform.
+
+My telegram blog: [t.me/avvlased](t.me/avvlased)
 
 <!--
 **avvlas/avvlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
