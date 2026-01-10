@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Alexander
 
-I mostly do mobile development with Kotlin.
-
 Here's my telegram blog: [t.me/avvlased](t.me/avvlased)
 
 <!--
