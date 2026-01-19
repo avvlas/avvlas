@@ -4,6 +4,8 @@ I'm mostly develop mobile apps with Kotlin and Compose (Multiplatform).
 
 Here's my telegram blog: [t.me/avvlased](t.me/avvlased)
 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,git,ktor,swift,go,rust,v)](https://skillicons.dev)
+
 <!--
 **avvlas/avvlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
