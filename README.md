@@ -4,6 +4,8 @@ I'm mostly develop mobile apps with Kotlin and Compose (Multiplatform).
 
 Here's my telegram blog: [t.me/avvlased](t.me/avvlased)
 
+### My skills:
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,git,ktor,swift,go,rust,py,v)](https://skillicons.dev)
 
 <!--
