@@ -2,7 +2,7 @@
 
 I'm mostly develop mobile apps with Kotlin and Compose (Multiplatform).
 
-Here's my telegram blog: [t.me/avvlased](t.me/avvlased)
+Here's my Telegram blog: [t.me/avvlased](t.me/avvlased)
 
 ### My skills:
 
