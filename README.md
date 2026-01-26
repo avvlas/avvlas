@@ -4,11 +4,13 @@ I mostly develop mobile apps with Kotlin and Compose (Multiplatform).
 
 Here's my Telegram blog: [t.me/avvlased](t.me/avvlased)
 
+<!--
+
 ### My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,git,ktor,swift,go,rust,py,v)](https://skillicons.dev)
 
-<!--
+
 **avvlas/avvlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
