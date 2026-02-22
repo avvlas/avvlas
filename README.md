@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Alexander
 
-I mostly develop mobile apps with Kotlin and Compose (Multiplatform).
-
-Here's my Telegram blog: [t.me/avvlased](t.me/avvlased)
-
 <!--
 
 ### My skills:
